@@ -11,12 +11,12 @@
       "metrics": {
         "minimum": {
           "name": "Minimum",
-          "notation": "V<sub>MIN</sub>",
+          "notation": "V<sub>min</sub>",
           "units": "V"
         },
         "maximum": {
           "name": "Maximum",
-          "notation": "V<sub>MAX</sub",
+          "notation": "V<sub>max</sub",
           "units": "V"
         }
       }
