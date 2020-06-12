@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "apiVersion": "1.0.0",
   "author": "Tim Reyes",
-  "description": "",
+  "description": "Analog measurement for min/max volts",
   "name": "Voltage Min and Max",
   "extensions": {
     "MinAndMax": {
