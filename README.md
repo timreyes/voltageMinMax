@@ -1,6 +1,7 @@
 # Voltage Min/Max
 
-An extension that adds an Voltage Min/Max metrics to analog measurements.
+An extension that adds Voltage Min/Max metrics to analog measurements.
+![Voltage Min and Max](files/voltage_min_max.png)
 
 ## Instructions
 1. Install this extension by clicking "Install"
